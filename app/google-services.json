@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "806717167337",
+    "firebase_url": "https://signup-7f352.firebaseio.com",
+    "project_id": "signup-7f352",
+    "storage_bucket": "signup-7f352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806717167337:android:c662d0d4990eb049",
+        "android_client_info": {
+          "package_name": "chat.hemant.com.signup_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806717167337-pn9gsb1mo18vapi34h0ub7ffafn0ftt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chat.hemant.com.signup_firebase",
+            "certificate_hash": "84d89253f3e63b47e56aaf49e635ad5a2c16f69d"
+          }
+        },
+        {
+          "client_id": "806717167337-ol0edthmo05a8qf1eavo6h7ujvpvd2gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzAPfPsbwNTiyPgK2qKt7eyUNfS1iYQrA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806717167337-ol0edthmo05a8qf1eavo6h7ujvpvd2gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
